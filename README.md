@@ -6,5 +6,5 @@
 
 ## Appendix
 
-this is for the competitive programing 
+this is for  competitive programing 
 
